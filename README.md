@@ -1,6 +1,6 @@
 # Arte Ciência e Nanotecnologia
 
-http://www.nanotecnociencia.ufscar.br/
+# http://www.nanotecnociencia.ufscar.br/
 
 As relações entre arte, ciência e tecnologia vêm sendo cada vez mais discutidas e problematizadas tanto nacionalmente quanto internacionalmente. Tal problematização apresenta como resultado o número crescente de objetos de pesquisa nas universidades brasileiras, evidenciando a importância da investigação nessa área, a qual se concretiza em diferentes segmentos de produção de conhecimento. Nossa abordagem situa-se no aprofundamento dessa questão relacionada às metodologias de divulgação científica por meio de um diálogo reflexivo entre arte, ciência e tecnologia, em particular aquele envolvendo Nanoarte e ciência. Tal abordagem e, por consequência, nossa pesquisa, se situará no interior das pesquisas realizadas pelo CDMF - Centro de Desenvolvimento de Materiais Funcionais e no LAbI - Laboratório Aberto de Interatividade. Para que nossa pesquisa teórica possa encontrar uma plataforma física e de visibilidade social, nosso projeto irá privilegiar, no conjunto dos objetivos propostos, a investigação dessas relações por meio da interface de um museu digital, que será criado para aprofundar as questões teóricas, metodológicas e práticas nos seus desdobramentos afins às relações entre arte e ciência na sua interface com a divulgação científica.
 
